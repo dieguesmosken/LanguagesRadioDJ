@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Search</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Track search utility.</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnyCategory</Key>
+    <Value>Any Category</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnySubcategory</Key>
+    <Value>Any Subcategory</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnyGenre</Key>
+    <Value>Any Genre</Value>
+  </Settings>
+  
+  <!-- List Columns --> 
+  
+  <Settings>
+    <Key>txArtist</Key>
+    <Value>Artist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txTitle</Key>
+    <Value>Title</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txDuration</Key>
+    <Value>Duration</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txIntro</Key>
+    <Value>Intro</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txLastPlayed</Key>
+    <Value>Last Play</Value>
+  </Settings>
+  
+  <!-- Options Form  -->
+  
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Options</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>Zone</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckRefresh</Key>
+    <Value>Realtime Refresh</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AlbumSearch</Key>
+    <Value>Album Search</Value>
+  </Settings>
+  
+  <!-- Search Context Menu -->
+  
+  <Settings>
+    <Key>tlStripAddtoPlaylist</Key>
+    <Value>Add To Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AddToRequestsQueueToolStripMenuItem</Key>
+    <Value>Add To Requests Queue</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tlStripEditTrack</Key>
+    <Value>Edit Track</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tlStripDisableTrack</Key>
+    <Value>Disable Selected Tracks</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tlStripDeleteTrack</Key>
+    <Value>Delete Selected Tracks</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txDisableConfirmation</Key>
+    <Value>Do you really want to disable the selected tracks?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txDeleteConfirmation</Key>
+    <Value>Do you really want to delete the selected tracks from the database?</Value>
+  </Settings>
+  
+</NewDataSet>

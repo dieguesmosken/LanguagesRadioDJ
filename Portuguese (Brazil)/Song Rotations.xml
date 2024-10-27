@@ -1,0 +1,367 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Rotação de Faixas</Value>
+  </Settings>
+  <Settings>
+    <Key>grRotTitle</Key>
+    <Value>Opções de Nome Da Rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>rdRotationName</Key>
+    <Value>Nome Da Rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>rdEditRotation</Key>
+    <Value>Editar Rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>grRotContent</Key>
+    <Value>Conteudo Da Rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>txtAnyGenre</Key>
+    <Value>Qualquer Genero</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType0</Key>
+    <Value>Menos Recentemente Tocada</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType1</Key>
+    <Value>Mais Recentemente Tocada</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType2</Key>
+    <Value>Menos vezes Tocada</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType3</Key>
+    <Value>Mais vezes Tocada</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType4</Key>
+    <Value>Por Prioridade</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType5</Key>
+    <Value>Aleatorio</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType6</Key>
+    <Value>Menos Recentemente Importadas</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType7</Key>
+    <Value>Mais Recentemente Importadas</Value>
+  </Settings>
+  <Settings>
+    <Key>cCategory</Key>
+    <Value>Categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>cID</Key>
+    <Value>Subcategoria</Value>
+  </Settings>
+  <Settings>
+    <Key>cGenreID</Key>
+    <Value>Genero</Value>
+  </Settings>
+  <Settings>
+    <Key>cSelType</Key>
+    <Value>Seleção de Tipo</Value>
+  </Settings>
+  <Settings>
+    <Key>swOption0</Key>
+    <Value>SEM</Value>
+  </Settings>
+  <Settings>
+    <Key>swOption1</Key>
+    <Value>INICIO</Value>
+  </Settings>
+  <Settings>
+    <Key>swOption2</Key>
+    <Value>ENTRE</Value>
+  </Settings>
+  <Settings>
+    <Key>swOption3</Key>
+    <Value>FINAL</Value>
+  </Settings>
+  <Settings>
+    <Key>cSweeper</Key>
+    <Value>Sweeper</Value>
+  </Settings>
+  <Settings>
+    <Key>cSongRepeat</Key>
+    <Value>Regras de Repetição</Value>
+  </Settings>
+  <Settings>
+    <Key>rdCategory</Key>
+    <Value>Faixa da Categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>rdRequest</Key>
+    <Value>Faixa de Pedido</Value>
+  </Settings>
+  <Settings>
+    <Key>rdEvent</Key>
+    <Value>Evento Da Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>FormSaveRotationTitle</Key>
+    <Value>Salvar Rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>rdNewRotation</Key>
+    <Value>Nome da Rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>rdReplaceRotation</Key>
+    <Value>Substituir Rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>rdDeleteRotation</Key>
+    <Value>Apagar Rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>frmSave</Key>
+    <Value>Salvar</Value>
+  </Settings>
+  <Settings>
+    <Key>frmCancel</Key>
+    <Value>Cancelar</Value>
+  </Settings>
+  <Settings>
+    <Key>butRunQuery</Key>
+    <Value>Rodar Query</Value>
+  </Settings>
+  <Settings>
+    <Key>butListCategories</Key>
+    <Value>Listar Categorias</Value>
+  </Settings>
+  <Settings>
+    <Key>butListSubcategories</Key>
+    <Value>Listar Subcategorias</Value>
+  </Settings>
+  <Settings>
+    <Key>butListGenres</Key>
+    <Value>Listar Generos</Value>
+  </Settings>
+  <Settings>
+    <Key>butOK</Key>
+    <Value>OK</Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>Cancelar</Value>
+  </Settings>
+  <Settings>
+    <Key>titleConfirmation</Key>
+    <Value>Confirmação</Value>
+  </Settings>
+  <Settings>
+    <Key>msgDeleteQueryContent</Key>
+    <Value>Você realmente deseja apagar o conteúdo existente?</Value>
+  </Settings>
+  <Settings>
+    <Key>titleError</Key>
+    <Value>Erro</Value>
+  </Settings>
+  <Settings>
+    <Key>msgNoContent</Key>
+    <Value>A Query não retornou nenhum conteúdo ou contém erros!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgSaveQuery</Key>
+    <Value>Você quer salvar a query existente?</Value>
+  </Settings>
+  <Settings>
+    <Key>cEdit</Key>
+    <Value>Editar</Value>
+  </Settings>
+  <Settings>
+    <Key>cDelete</Key>
+    <Value>Apagar</Value>
+  </Settings>
+  <Settings>
+    <Key>bSaveRotation</Key>
+    <Value>Salvar</Value>
+  </Settings>
+  <Settings>
+    <Key>bCancelRotation</Key>
+    <Value>Fechar</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCategory</Key>
+    <Value>Categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSubcategory</Key>
+    <Value>Subcategoria</Value>
+  </Settings>
+  <Settings>
+    <Key>lbGenre</Key>
+    <Value>Genero</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSelectionType</Key>
+    <Value>Modo de Seleção</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSweeper</Key>
+    <Value>Sweeper</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTrackSeparation</Key>
+    <Value>Não repita a faixa por</Value>
+  </Settings>
+  <Settings>
+    <Key>lbArtistRepeat</Key>
+    <Value>Não repita o artista por</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTitleRepeat</Key>
+    <Value>Não repita o titulo por</Value>
+  </Settings>
+  <Settings>
+    <Key>lbAlbumRepeat</Key>
+    <Value>Não repita o album por</Value>
+  </Settings>
+  <Settings>
+    <Key>grProperties</Key>
+    <Value>Propriedades</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes1</Key>
+    <Value>minutos.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes2</Key>
+    <Value>minutos.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes3</Key>
+    <Value>minutos.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes4</Key>
+    <Value>minutos.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRotationName</Key>
+    <Value>Nome Da Rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>titleSuccess</Key>
+    <Value>Sucesso</Value>
+  </Settings>
+  <Settings>
+    <Key>msgRotationSaved</Key>
+    <Value>A rotação foi salva!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgRotationNameMissing</Key>
+    <Value>Insira o nome para a rotação!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgRotationAlreadyExists</Key>
+    <Value>Já existe uma rotação com este nome,você deseja substituila?</Value>
+  </Settings>
+  <Settings>
+    <Key>typeEvent</Key>
+    <Value>Evento</Value>
+  </Settings>
+  <Settings>
+    <Key>typeQuery</Key>
+    <Value>Query</Value>
+  </Settings>
+  <Settings>
+    <Key>typeRequest</Key>
+    <Value>Pedido</Value>
+  </Settings>
+  <Settings>
+    <Key>txtNoRotations</Key>
+    <Value>Não há rotações!</Value>
+  </Settings>
+  <Settings>
+    <Key>txtEventDoesntExistAnymore</Key>
+    <Value>Evento Invalido!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgRemoveRotationItem</Key>
+    <Value>Você realmente deseja apagar este item?</Value>
+  </Settings>
+  <Settings>
+    <Key>msgDeleteRotation</Key>
+    <Value>Você realmente deseja apagar esta rotação?</Value>
+  </Settings>
+  <Settings>
+    <Key>msgCannotDeleteNotSaved</Key>
+    <Value>You cannot save this rotation because it wasn't saved yet!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgRotationEmpty</Key>
+    <Value>The rotation is empty!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgNoRotationAvalable</Key>
+    <Value>There is no rotation available in the program! Until you create on, Auto DJ will not be able to create any playlist!</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEventName</Key>
+    <Value>Event Name</Value>
+  </Settings>
+  <Settings>
+    <Key>msgNoManualEvent</Key>
+    <Value>No Manual Events Found!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgSelectEvent</Key>
+    <Value>Please select an event!</Value>
+  </Settings>
+  <Settings>
+    <Key>eventsTitle</Key>
+    <Value>Rotations Events</Value>
+  </Settings>
+  <Settings>
+    <Key>TrackFromCategoryToolStripMenuItem</Key>
+    <Value>Track From Category</Value>
+  </Settings>
+  <Settings>
+    <Key>TrackFromSQLQueryToolStripMenuItem</Key>
+    <Value>Track From SQL Query</Value>
+  </Settings>
+  <Settings>
+    <Key>TrackFromRequestsToolStripMenuItem</Key>
+    <Value>Track From Requests</Value>
+  </Settings>
+  <Settings>
+    <Key>butAddManualEvent</Key>
+    <Value>Manual Event</Value>
+  </Settings>
+  <Settings>
+    <Key>ConfirmDeleteRotation</Key>
+    <Value>Do you really want to delete this rotation?</Value>
+  </Settings>
+  <Settings>
+    <Key>ConfirmTitleDeleteRotation</Key>
+    <Value>Delete Rotation</Value>
+  </Settings>
+  <Settings>
+    <Key>grRepeatOverride</Key>
+    <Value>Repeat Rules Override (0=Use global Values)</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType8</Key>
+    <Value>Highest Rating</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType9</Key>
+    <Value>Lowest Rating</Value>
+  </Settings>
+</NewDataSet>

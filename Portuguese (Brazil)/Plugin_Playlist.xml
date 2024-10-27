@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Varios estilos de playlist.</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butAutoDJ</Key>
+    <Value>AUTODJ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butAutoDJ2</Key>
+    <Value>MANUAL</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butAssist</Key>
+    <Value>ASSISTIDO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butAssist2</Key>
+    <Value>AUTOMATICO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butInsert</Key>
+    <Value>INSERIR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butReplace</Key>
+    <Value>SUBSTITUIR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butClear</Key>
+    <Value>LIMPAR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butInput</Key>
+    <Value>ENTRADA</Value>
+  </Settings>
+  
+  <!-- LIST MODE WINDOW --> 
+  
+  <Settings>
+    <Key>txtPlay</Key>
+    <Value>Play</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtArtist</Key>
+    <Value>ArtistA</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtTitle</Key>
+    <Value>Titulo</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtSweeper</Key>
+    <Value>Sweeper</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtVT</Key>
+    <Value>Voice Track</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtIntro</Key>
+    <Value>Inicio</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtDuration</Key>
+    <Value>Duração</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtEta</Key>
+    <Value>ETA</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtDelete</Key>
+    <Value>Apagar</Value>
+  </Settings>
+  
+  <!-- OPEN/SAVE FORM -->
+  
+  <Settings>
+    <Key>txtOpenPlaylist</Key>
+    <Value>Abrir Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grPlaylistType</Key>
+    <Value>Opções de Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>rdRdj</Key>
+    <Value>RadioDJ Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>rdPls</Key>
+    <Value> Playlist  pls, m3u</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbOpenOptions</Key>
+    <Value>Abrir Opções</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butOpen</Key>
+    <Value>ABRIR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>CANCELAR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtSavePlaylist</Key>
+    <Value>Salvar Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSavePlaylistName</Key>
+    <Value>Nome da Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butSave</Key>
+    <Value>SALVAR</Value>
+  </Settings>
+  
+  <!-- CONFIRATIONS -->
+  
+  <Settings>
+    <Key>ConfirmationTitle</Key>
+    <Value>Confirmação necessaria...</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ClearConfirmation</Key>
+    <Value>Você realmente quer excluir a lista de reprodução existente?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DeleteConfirmation</Key>
+    <Value>Você realmente quer excluir esta faixa?</Value>
+  </Settings>
+  
+  <!-- OPTIONS WINDOW --> 
+  
+  <Settings>
+    <Key>txtSettings</Key>
+    <Value>Opções</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtDescription</Key>
+    <Value>Opções de Plugin</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>Plugin Zone</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbStyle</Key>
+    <Value>Estilo de playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtStyleCart</Key>
+    <Value>Modo Slot</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtStyleList</Key>
+    <Value>Modo Lista</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butOK</Key>
+    <Value>Fechar</Value>
+  </Settings>
+  
+</NewDataSet>

@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>grSyncSettings</Key>
+    <Value>Configurações de Sincronia</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCategory</Key>
+    <Value>Categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSubcategory</Key>
+    <Value>Subcategoria</Value>
+  </Settings>
+  <Settings>
+    <Key>lbGenre</Key>
+    <Value>Genero</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTrackType</Key>
+    <Value>Tipo de faixa</Value>
+  </Settings>
+  <Settings>
+    <Key>butSyncNow</Key>
+    <Value>Sincronizar Agora</Value>
+  </Settings>
+  <Settings>
+    <Key>butClose</Key>
+    <Value>Fechar</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Sincronizar Pasta</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Sincronizar pasta com Subcategorias</Value>
+  </Settings>
+  <Settings>
+    <Key>cCategory</Key>
+    <Value>Categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>cSubcategory</Key>
+    <Value>Subcategoria</Value>
+  </Settings>
+  <Settings>
+    <Key>cGenre</Key>
+    <Value>Genero</Value>
+  </Settings>
+  <Settings>
+    <Key>cTrackType</Key>
+    <Value>Tipo de faixa</Value>
+  </Settings>
+  <Settings>
+    <Key>cFolder</Key>
+    <Value>Pasta</Value>
+  </Settings>
+  <Settings>
+    <Key>cEdit</Key>
+    <Value>Editar</Value>
+  </Settings>
+  <Settings>
+    <Key>cDelete</Key>
+    <Value>Apagar</Value>
+  </Settings>
+</NewDataSet>

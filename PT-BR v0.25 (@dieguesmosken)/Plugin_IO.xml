@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <key>MJS_Enabled</key>
+    <value>Verdadeiro</value>
+  </Settings>
+  <Settings>
+    <key>MJS_Device</key>
+    <value>0</value>
+  </Settings>
+</NewDataSet>

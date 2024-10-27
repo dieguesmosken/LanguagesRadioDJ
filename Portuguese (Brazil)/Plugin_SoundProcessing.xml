@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Processamento de Audio</Value>
+  </Settings>
+  <Settings>
+    <Key>grEqualizer</Key>
+    <Value>Equalizador de 10 Bandas</Value>
+  </Settings>
+  <Settings>
+    <Key>ckEqualizer</Key>
+    <Value>Ligado</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbAgcPreset</Key>
+    <Value>Predefinição de Controle Automatico De Ganho (AGC)</Value>
+  </Settings>
+  <Settings>
+    <Key>AgcPreset0</Key>
+    <Value>Desligado</Value>
+  </Settings>
+  <Settings>
+    <Key>AgcPreset1</Key>
+    <Value>Forte</Value>
+  </Settings>
+  <Settings>
+    <Key>AgcPreset2</Key>
+    <Value>Medio</Value>
+  </Settings>
+  <Settings>
+    <Key>AgcPreset3</Key>
+    <Value>Simples</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCompressorPreset</Key>
+    <Value>Predefinição do compressor de som</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset0</Key>
+    <Value>Desligado</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset1</Key>
+    <Value>Padrão</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset2</Key>
+    <Value>Forte</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset3</Key>
+    <Value>Forte 2</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset4</Key>
+    <Value>Forte Comercial</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset5</Key>
+    <Value>Medio</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset6</Key>
+    <Value>Simples</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset7</Key>
+    <Value>Simples 2</Value>
+  </Settings>
+  <Settings>
+    <Key>butSave</Key>
+    <Value>Salvar</Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>Cancelar</Value>
+  </Settings>
+  
+  <!-- UPDATE v1.6.3.3 -->
+  <Settings>
+    <Key>grCompressor</Key>
+    <Value>Compressor de Audio</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grAGC</Key>
+    <Value>AGC</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grVolume</Key>
+    <Value>Volume em cadeia</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbVolume</Key>
+    <Value>Volume</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbMuteMax</Key>
+    <Value>0=mudo, 100=max</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>rdCompByPreset</Key>
+    <Value>Por Predefinição</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>rdCompCustom</Key>
+    <Value>Valores Customizados</Value>
+  </Settings>
+</NewDataSet>

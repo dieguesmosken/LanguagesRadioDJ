@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnyTrackType</Key>
+    <Value>Qualquer Tipo de Faixa</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Music</Key>
+    <Value>Música</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Jingle</Key>
+    <Value>Vinheta</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Sweeper</Key>
+    <Value>Sweeper</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Voiceover</Key>
+    <Value>Voiceover</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Commercial</Key>
+    <Value>Comercial</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>InternetStream</Key>
+    <Value>Stream de Internet</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Other</Key>
+    <Value>Outro</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>VDF</Key>
+    <Value>Duração de Arquivo Variavel</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Podcast</Key>
+    <Value>Podcast</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Request</Key>
+    <Value>Pedido</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>News</Key>
+    <Value>Noticias</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>PlaylistEvent</Key>
+    <Value>Evento de Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>FileByDate</Key>
+    <Value>Arquivo por Data</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>NewestFromFolder</Key>
+    <Value>Novas da Pasta</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Teaser</Key>
+    <Value>Teaser</Value>
+  </Settings>
+</NewDataSet>

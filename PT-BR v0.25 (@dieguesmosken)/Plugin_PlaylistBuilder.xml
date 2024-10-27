@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Contruir Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>PluginDescription</Key>
+    <Value>Contrua Playlists Customizadas.</Value>
+  </Settings>
+  
+  <!-- FORM SAVE -->
+  
+  <Settings>
+    <Key>SaveFormTitle</Key>
+    <Value>Salvar Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbMinutes</Key>
+    <Value>minutos</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Opções</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>rdNewPlaylist</Key>
+    <Value>Nova Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>rdReplacePlaylist</Key>
+    <Value>Substituir Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>rdDeletePlaylist</Key>
+    <Value>Apagar Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butSave</Key>
+    <Value>SALVAR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>CANCELAR</Value>
+  </Settings>
+  
+  <!-- FORM OPEN -->
+  
+  <Settings>
+    <Key>OpenFormTitle</Key>
+    <Value>Abrir Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>rdPlaylists</Key>
+    <Value>Playlists</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>rdFromRotation</Key>
+    <Value>Playlist De Rotação</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>rdMainPlaylist</Key>
+    <Value>Playlist Principal</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butOpen</Key>
+    <Value>ABRIR</Value>
+  </Settings>
+  
+  <!-- MAIN FORM -->
+  
+  <Settings>
+    <Key>colTime</Key>
+    <Value>HORA</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>colArtist</Key>
+    <Value>ARTISTA</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>colTitle</Key>
+    <Value>TITULO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>colIntro</Key>
+    <Value>INICIO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>colDuration</Key>
+    <Value>DURAÇÃO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>colSW</Key>
+    <Value>SWEEPER</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>colVT</Key>
+    <Value>VT</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>colTrigger</Key>
+    <Value>TRIGGER</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnyCategory</Key>
+    <Value>Qualquer Categoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnySubcategory</Key>
+    <Value>Qualquer Subcategoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnyGenre</Key>
+    <Value>Qualquer Genero</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txNoPlaylist</Key>
+    <Value>Sem Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txNoPlaylistMsg</Key>
+    <Value>Por favor selecione a playlist primeiro!</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txNoRotation</Key>
+    <Value>Sem Rotation</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txNoRotationMsg</Key>
+    <Value>Por Favor selecione a rotation primeiro!</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txReplaceMsg</Key>
+    <Value>Você realmente deseja substituir a playlist selecionada?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txDeleteMsg</Key>
+    <Value>Você realmente deseja excluir a playlist selecionada?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txNewPlaylist</Key>
+    <Value>Você realmente deseja criar uma playlist?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txPlaylistEmptyMsg</Key>
+    <Value>A Playlist está vazia!</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtStart</Key>
+    <Value>INICIO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtIntro</Key>
+    <Value>ENTRE</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtEnd</Key>
+    <Value>FINAL</Value>
+  </Settings>
+  
+  <!-- 1.6.4.3 -->
+  
+  <Settings>
+    <Key>tsFile</Key>
+    <Value>Arquivo</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsNewPlaylist</Key>
+    <Value>Nova Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsOpenPlaylist</Key>
+    <Value>Abrir Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsSavePlaylist</Key>
+    <Value>Salvar Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsExportHtml</Key>
+    <Value>Exportar em Arquivo HTML</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsExit</Key>
+    <Value>Sair</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsEdit</Key>
+    <Value>Editar</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsShuffle</Key>
+    <Value>Playlist Aletoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsTempEdit</Key>
+    <Value>Edição Temporaria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsReload</Key>
+    <Value>Recarregar Faixa</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsAddToPlaylist</Key>
+    <Value>Adicionar a Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsDeleteFromPlaylist</Key>
+    <Value>Apagar da Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsClearPlaylist</Key>
+    <Value>Limpar Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsImport</Key>
+    <Value>Importar</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsImportFile</Key>
+    <Value>Importar Arquivo</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tsImportFolder</Key>
+    <Value>Importar Pasta</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>rdM3u</Key>
+    <Value> Playlist .M3U</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPosition</Key>
+    <Value>Posição</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>WarningTitle</Key>
+    <Value>Confirmação Necessaria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DeleteFromPlaylistConfirmation</Key>
+    <Value>Você realmente deseja excluir a faixa selecionada da playlist?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DeleteFromDatabaseConfirmation</Key>
+    <Value>Você realmente deseja excluir a faixa selecionada do Banco de Dados?</Value>
+  </Settings>
+  
+</NewDataSet>

@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Hora Certa</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Toca Hora Certa.</Value>
+  </Settings>
+
+</NewDataSet>

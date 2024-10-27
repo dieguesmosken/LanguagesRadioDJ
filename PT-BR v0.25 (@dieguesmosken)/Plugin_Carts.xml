@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Players Instantaneos</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Plugin Players Instantaneos</Value>
+  </Settings>
+  
+  <!-- Configuration --> 
+  
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Opções</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckSeparate</Key>
+    <Value>Como janela separada</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>Plugin Zone</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbColumns</Key>
+    <Value>Colunas</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbRows</Key>
+    <Value>Linhas</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSepColumns</Key>
+    <Value>Colunas (Como janela separada)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSepRows</Key>
+    <Value>Linhas (Como janela separada)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butOK</Key>
+    <Value>fechar</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tip_Save</Key>
+    <Value>Salve este conjunto de cartuchos</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tip_Delete</Key>
+    <Value>Apague este conjunto de cartuchos</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tip_Fade</Key>
+    <Value>Fade out quando Parar</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butFade</Key>
+    <Value>FADE</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tip_Continuous</Key>
+    <Value>Toque um cart. de cada vez</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butContinuous</Key>
+    <Value>ÚNICO</Value>
+  </Settings>
+
+  <Settings>
+    <Key>tip_Stop</Key>
+    <Value>Parar Cartuchos </Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DeleteCartMsg</Key>
+    <Value>Você realmente quer excluir este conjunto de cartuchos?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DeleteCartTitle</Key>
+    <Value>Confirmação Necessaria!</Value>
+  </Settings>
+  
+</NewDataSet>

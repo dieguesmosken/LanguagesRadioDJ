@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+
+  <Settings>
+    <Key>Path</Key>
+    <Value>Caminho/URL</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Artist</Key>
+    <Value>Artista</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Title</Key>
+    <Value>Titulo</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Album</Key>
+    <Value>Album</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnyCategory</Key>
+    <Value>Qualquer Categoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnySubcategory</Key>
+    <Value>Qualquer Subcategoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnyGenre</Key>
+    <Value>Qualquer Genero</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>NoEvent</Key>
+    <Value>Nenhum evento futuro</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ConfirmTitle</Key>
+    <Value>Confirmação Necessaria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ConfirmClose</Key>
+    <Value>Você realmente quer sair do programa?</Value>
+  </Settings>
+  
+  <!-- 1.6.4.3 -->
+  
+  <Settings>
+    <Key>AnyTrackType</Key>
+    <Value>Qualquer tipo de faixa</Value>
+  </Settings>
+  
+</NewDataSet>

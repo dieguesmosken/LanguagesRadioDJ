@@ -1,0 +1,239 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <!-- TRANSLATION START -->
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Ações de Eventos</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tabMainActions</Key>
+    <Value>Ações Principais</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tabPlugins</Key>
+    <Value>Plugins</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grActions</Key>
+    <Value>Ações</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPosition</Key>
+    <Value>Posição</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbOptions</Key>
+    <Value>Opções</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPath</Key>
+    <Value>Caminho (URL)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbArguments</Key>
+    <Value>Argumentos</Value>
+  </Settings>
+  
+  <!-- GROUP PLAYLIST -->
+  
+  <Settings>
+    <Key>grPlaylist</Key>
+    <Value>PLAYLIST</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LoadTrack</Key>
+    <Value>Carregar faixa</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LoadTrackFromCategory</Key>
+    <Value>Carregar Faixa da categoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LoadPlaylist</Key>
+    <Value>Carregar Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ShufflePlaylist</Key>
+    <Value>Playlist shuffle</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ClearPlaylist</Key>
+    <Value>Limpar Playlist</Value>
+  </Settings>
+  
+  <!-- GROUP PLAYBACK -->
+  
+  <Settings>
+    <Key>grPlayback</Key>
+    <Value>PLAYBACK</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Play</Key>
+    <Value>Iniciar reprodução</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Pause</Key>
+    <Value>Pausa</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>UnPause</Key>
+    <Value>despausa</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Stop</Key>
+    <Value>Parar reprodução</Value>
+  </Settings>
+  
+  <!-- GROUP AUTOMATION -->
+  
+  <Settings>
+    <Key>grAutomation</Key>
+    <Value>AUTOMAÇÃO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>EnableAutoDJ</Key>
+    <Value>Ativar AutoDJ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DisableAutoDJ</Key>
+    <Value>Disativar AutoDJ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LoadRotation</Key>
+    <Value>Carregar Rotação</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>SetSweeperCategory</Key>
+    <Value>Definir Categoria de Sweeper </Value>
+  </Settings>
+  
+  <Settings>
+    <Key>PauseEvents</Key>
+    <Value>Pausar Eventos</Value>
+  </Settings>
+  
+  <!-- GROUP INPUTS -->
+  
+  <Settings>
+    <Key>grInputs</Key>
+    <Value>ENTRADAS</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MuteInput</Key>
+    <Value>Mutar entradas</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>UnMuteInput</Key>
+    <Value>desmutar entradas</Value>
+  </Settings>
+  
+  <!-- GROUP OTHERS -->
+  
+  <Settings>
+    <Key>grOthers</Key>
+    <Value>OUTROS</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>RunApplication</Key>
+    <Value>Executar o aplicativo</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LaunchInternetLink</Key>
+    <Value>Iniciar o Link de Internet</Value>
+  </Settings>
+  
+  <!-- RC2 -->
+  
+  <Settings>
+    <Key>EnableEventsCategory</Key>
+    <Value>Habilitar categoria de eventos</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DisableEventsCategory</Key>
+    <Value>Desabilitar categoria de eventos</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AssistedEnable</Key>
+    <Value>Habilitar assistido</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AssistedDisable</Key>
+    <Value>Desabilitar assistido</Value>
+  </Settings>
+  
+  <!-- RC3 -->
+  
+  <Settings>
+    <Key>LoadM3UPlaylist</Key>
+    <Value>Carregar Playlist M3U</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>SecondsToWait</Key>
+    <Value>Segundos para esperar</Value>
+  </Settings>
+  
+  <!-- 1.8.3 -->
+  
+  <Settings>
+    <Key>RunSQLQuery</Key>
+    <Value>Executar Query SQL</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>StartRecording</Key>
+    <Value>Iniciar Gravação</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>StopRecording</Key>
+    <Value>Parar Gravação</Value>
+  </Settings>
+  
+  <!-- BUTTONS -->
+  
+  <Settings>
+    <Key>butAddAction</Key>
+    <Value>Adicionar Ação</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butClose</Key>
+    <Value>Fechar</Value>
+  </Settings>
+  
+</NewDataSet>

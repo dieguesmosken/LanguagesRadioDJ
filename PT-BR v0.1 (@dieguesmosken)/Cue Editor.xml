@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <!-- TRANSLATION START --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Editor de CUE</Value>
+  </Settings>
+  
+  <!-- GROUP OPERATIONS --> 
+  
+  <Settings>
+    <Key>grOperations</Key>
+    <Value>OPERAÇÕES</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>editCue</Key>
+    <Value>Modo de Edição</Value>
+  </Settings>
+  
+  <!-- GROUP FADE --> 
+  
+  <Settings>
+    <Key>grFading</Key>
+    <Value>CONFIGURAÇÕES DE FADE</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbFadeIn</Key>
+    <Value>Fade In</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbFadeOut</Key>
+    <Value>Fade Out</Value>
+  </Settings>
+  
+  <!-- GROUP CUSTOM SETTINGS --> 
+  
+  <Settings>
+    <Key>grCustomSettings</Key>
+    <Value>CONFIGURAÇÕES PERSONALIZADAS</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbStartLevelThr</Key>
+    <Value>Limite de partida</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbNextStart</Key>
+    <Value>Limite de mistura</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbEndLevel</Key>
+    <Value>limite de Final</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butCustSet</Key>
+    <Value>APLICAR CONFIGURAÇÕES</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butDefSet</Key>
+    <Value>APLICAR CONFIGURAÇÕES PADRÃO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butDefault</Key>
+    <Value>SALVAR COMO PADRÃO</Value>
+  </Settings>
+  
+  <!-- GROUP BUTTONS --> 
+  
+  <Settings>
+    <Key>bSave</Key>
+    <Value>Salvar</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bCancel</Key>
+    <Value>Cancelar</Value>
+  </Settings>
+</NewDataSet>

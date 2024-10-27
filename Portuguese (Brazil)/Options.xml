@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle.Text</Key>
+    <Value>Configuração do RadioDJ</Value>
+  </Settings>
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Opções</Value>
+  </Settings>
+  <Settings>
+    <Key>butOptions</Key>
+    <Value>OPÇÕES</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlugins</Key>
+    <Value>PLUGINS</Value>
+  </Settings>
+  <Settings>
+    <Key>butRotations</Key>
+    <Value>ROTAÇÃO DE FAIXAS</Value>
+  </Settings>
+  <Settings>
+    <Key>butImportTrack</Key>
+    <Value>IMPORTAÇÃO DE FAIXAS</Value>
+  </Settings>
+  <Settings>
+    <Key>butImportFolder</Key>
+    <Value>IMPORTAÇÃO DE DIRETORIOS</Value>
+  </Settings>
+  <Settings>
+    <Key>butCategories</Key>
+    <Value>CATEGORIAS</Value>
+  </Settings>
+  <Settings>
+    <Key>butAbout</Key>
+    <Value>Sobre...</Value>
+  </Settings>
+  <Settings>
+    <Key>butClose</Key>
+    <Value>Fechar</Value>
+  </Settings>
+  <Settings>
+    <Key>butShortcuts</Key>
+    <Value>ATALHOS</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlaylists</Key>
+    <Value>PLAYLISTS</Value>
+  </Settings>
+  <Settings>
+    <Key>butUsers</Key>
+    <Value>USUARIOS</Value>
+  </Settings>
+  <Settings>
+    <Key>butStyles</Key>
+    <Value>EDITOR DE CORES</Value>
+  </Settings>
+  <Settings>
+    <Key>butEvents</Key>
+    <Value>EVENTOS</Value>
+  </Settings>
+  <Settings>
+    <Key>butOptions_tip</Key>
+    <Value>Alterar as principais opções do programa</Value>
+  </Settings>
+  <Settings>
+    <Key>butOptions-tip</Key>
+    <Value>Alterar as principais opções do programa</Value>
+  </Settings>
+  <Settings>
+    <Key>butRotations-tip</Key>
+    <Value>Criar ou modificar rotações de Músicas</Value>
+  </Settings>
+  <Settings>
+    <Key>butEvents-tip</Key>
+    <Value>Criar ou modificar eventos</Value>
+  </Settings>
+  <Settings>
+    <Key>butShortcuts-tip</Key>
+    <Value>Criar ou modificar os Atalhos de Teclado do Programa</Value>
+  </Settings>
+  <Settings>
+    <Key>butUsers-tip</Key>
+    <Value>Criar ou modificar usuarios</Value>
+  </Settings>
+  <Settings>
+    <Key>butStyles-tip</Key>
+    <Value>Alterar as configurações do esquema de cores atuais</Value>
+  </Settings>
+  <Settings>
+    <Key>butImportTrack-tip</Key>
+    <Value>Importação de faixa única</Value>
+  </Settings>
+  <Settings>
+    <Key>butImportFolder-tip</Key>
+    <Value>Importar pastas para o programa</Value>
+  </Settings>
+  <Settings>
+    <Key>butCategories-tip</Key>
+    <Value>Criar ou modificar Categorias</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlaylists-tip</Key>
+    <Value>Gerenciar Playlists no banco de dados</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlugins-tip</Key>
+    <Value>Lista de Plugins do Programa</Value>
+  </Settings>
+  <Settings>
+    <Key>butAbout-tip</Key>
+    <Value>Sobre o programa</Value>
+  </Settings>
+  <Settings>
+    <Key>butClose-tip</Key>
+    <Value>Fechar Janela</Value>
+  </Settings>
+</NewDataSet>

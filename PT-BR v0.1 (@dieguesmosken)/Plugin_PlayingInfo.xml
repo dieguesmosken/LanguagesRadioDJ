@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Now Playing Info</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Now Playing Info Exporter</Value>
+  </Settings>
+  
+  <!-- FILE GROUP -->
+  
+  <Settings>
+    <Key>grToFile</Key>
+    <Value>Export to file</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbTargetFile</Key>
+    <Value>Target File</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckFile</Key>
+    <Value>Enable</Value>
+  </Settings>
+  
+  <!-- WEB GROUP -->
+  
+  <Settings>
+    <Key>grToWeb</Key>
+    <Value>Export to Web</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbURL</Key>
+    <Value>URL</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPassword</Key>
+    <Value>Password</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckWeb</Key>
+    <Value>Enable</Value>
+  </Settings>
+  
+  <!-- SERIAL GROUP -->
+  
+  <Settings>
+    <Key>grSerial</Key>
+    <Value>Export to Serial</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbTemplate</Key>
+    <Value>Template File</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSerialPort</Key>
+    <Value>Serial Port</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbBaud</Key>
+    <Value>Baud Rate</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbHandshake</Key>
+    <Value>Handshake</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtSweeper</Key>
+    <Value>Sweeper</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbParity</Key>
+    <Value>Parity</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbStopBits</Key>
+    <Value>Stop Bits</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbDataBits</Key>
+    <Value>Data Bits</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckDtr</Key>
+    <Value>DTR Enable</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckRTS</Key>
+    <Value>RTS Enable</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckSerial</Key>
+    <Value>Enable</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butSave</Key>
+    <Value>Save</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>Cancel</Value>
+  </Settings>
+  
+</NewDataSet>

@@ -1,0 +1,307 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Tracks Manager</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Tracks Manager Utility.</Value>
+  </Settings>
+  <Settings>
+    <Key>grTrackType</Key>
+    <Value>FILE TYPES</Value>
+  </Settings>
+  <Settings>
+    <Key>butChangeType</Key>
+    <Value>CHANGE TYPE</Value>
+  </Settings>
+  <Settings>
+    <Key>grGenre</Key>
+    <Value>GENRES</Value>
+  </Settings>
+  <Settings>
+    <Key>butChangeGenre</Key>
+    <Value>CHANGE GENRE</Value>
+  </Settings>
+  <Settings>
+    <Key>grMoveFiles</Key>
+    <Value>MOVE</Value>
+  </Settings>
+  <Settings>
+    <Key>butMoveTracks</Key>
+    <Value>MOVE TRACKS</Value>
+  </Settings>
+  <Settings>
+    <Key>grOperations</Key>
+    <Value>OPERATIONS</Value>
+  </Settings>
+  <Settings>
+    <Key>butEnable</Key>
+    <Value>ENABLE TRACKS</Value>
+  </Settings>
+  <Settings>
+    <Key>butDisable</Key>
+    <Value>DISABLE TRACKS</Value>
+  </Settings>
+  <Settings>
+    <Key>butDelete</Key>
+    <Value>DELETE TRACKS</Value>
+  </Settings>
+  <Settings>
+    <Key>EditTrack</Key>
+    <Value>EDIT TRACK</Value>
+  </Settings>
+  <Settings>
+    <Key>SelectAll</Key>
+    <Value>Select All</Value>
+  </Settings>
+  <Settings>
+    <Key>InverseSelection</Key>
+    <Value>Invert Selection</Value>
+  </Settings>
+  <Settings>
+    <Key>grMonitor</Key>
+    <Value>MONITOR</Value>
+  </Settings>
+  <Settings>
+    <Key>butClose</Key>
+    <Value>Close</Value>
+  </Settings>
+  <Settings>
+    <Key>ShowAll</Key>
+    <Value>Show All</Value>
+  </Settings>
+  <Settings>
+    <Key>ShowEnabled</Key>
+    <Value>Show Enabled</Value>
+  </Settings>
+  <Settings>
+    <Key>ShowDisabled</Key>
+    <Value>Show Disabled</Value>
+  </Settings>
+  <Settings>
+    <Key>grRename</Key>
+    <Value>RENAME</Value>
+  </Settings>
+  <Settings>
+    <Key>rdCapitalize</Key>
+    <Value>Capitalize</Value>
+  </Settings>
+  <Settings>
+    <Key>rdLowerCase</Key>
+    <Value>Lowercase</Value>
+  </Settings>
+  <Settings>
+    <Key>rdUpperCase</Key>
+    <Value>Uppercase</Value>
+  </Settings>
+  <Settings>
+    <Key>rdReplace</Key>
+    <Value>Replace</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTo</Key>
+    <Value>with</Value>
+  </Settings>
+  <Settings>
+    <Key>butRename</Key>
+    <Value>RENAME</Value>
+  </Settings>
+  <Settings>
+    <Key>Artist</Key>
+    <Value>Artist</Value>
+  </Settings>
+  <Settings>
+    <Key>Title</Key>
+    <Value>Title</Value>
+  </Settings>
+  <Settings>
+    <Key>Duration</Key>
+    <Value>Duration</Value>
+  </Settings>
+  <Settings>
+    <Key>Intro</Key>
+    <Value>Intro</Value>
+  </Settings>
+  <Settings>
+    <Key>Priority</Key>
+    <Value>Priority</Value>
+  </Settings>
+  <Settings>
+    <Key>TimesPlayed</Key>
+    <Value>Plays</Value>
+  </Settings>
+  <Settings>
+    <Key>Enabled</Key>
+    <Value>Enabled</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyCategory</Key>
+    <Value>Any Category</Value>
+  </Settings>
+  <Settings>
+    <Key>AnySubCategory</Key>
+    <Value>Any Subcategory</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyGenre</Key>
+    <Value>Any Genre</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyTrackType</Key>
+    <Value>Any Type</Value>
+  </Settings>
+  <Settings>
+    <Key>ttMusic</Key>
+    <Value>Music</Value>
+  </Settings>
+  <Settings>
+    <Key>ttJingle</Key>
+    <Value>Jingle</Value>
+  </Settings>
+  <Settings>
+    <Key>ttSweeper</Key>
+    <Value>Sweeper</Value>
+  </Settings>
+  <Settings>
+    <Key>ttVoiceover</Key>
+    <Value>Voiceover</Value>
+  </Settings>
+  <Settings>
+    <Key>ttCommercial</Key>
+    <Value>Commercial</Value>
+  </Settings>
+  <Settings>
+    <Key>ttInternetStream</Key>
+    <Value>Intenet Stream</Value>
+  </Settings>
+  <Settings>
+    <Key>ttOther</Key>
+    <Value>Others</Value>
+  </Settings>
+  <Settings>
+    <Key>ttVDF</Key>
+    <Value>Variable Duration File</Value>
+  </Settings>
+  <Settings>
+    <Key>rdCategory</Key>
+    <Value>Track From Category</Value>
+  </Settings>
+  <Settings>
+    <Key>rdRequest</Key>
+    <Value>Track From Requests</Value>
+  </Settings>
+  <Settings>
+    <Key>ConfirmationTitle</Key>
+    <Value>Confirmation Needed!</Value>
+  </Settings>
+  <Settings>
+    <Key>StateConfirmation</Key>
+    <Value>Do you really want to change the state of the selected tracks?</Value>
+  </Settings>
+  <Settings>
+    <Key>DeleteConfirmation</Key>
+    <Value>Do you really want to delete the selected tracks?</Value>
+  </Settings>
+  <Settings>
+    <Key>TypeConfirmation</Key>
+    <Value>Do you really want to change the type of the selected tracks?</Value>
+  </Settings>
+  <Settings>
+    <Key>MoveConfirmation</Key>
+    <Value>Do you really want to move the selected tracks?</Value>
+  </Settings>
+  <Settings>
+    <Key>GenreConfirmation</Key>
+    <Value>Do you really want to change the genre of the selected tracks?</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPriority</Key>
+    <Value>Reset Priority</Value>
+  </Settings>
+  <Settings>
+    <Key>ShowNowFound</Key>
+    <Value>Show Not Found</Value>
+  </Settings>
+  <Settings>
+    <Key>SelectNone</Key>
+    <Value>Select None</Value>
+  </Settings>
+  <Settings>
+    <Key>CategoriesToolStripMenuItem1</Key>
+    <Value>Categories</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPlaycountForSelectedTracksToolStripMenuItem</Key>
+    <Value>Reset Playcount for the Selected Files</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPriorityForSelectedTracksToolStripMenuItem</Key>
+    <Value>Reset Priority for the Selected Files</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPlaycountForSubcategoryToolStripMenuItem1</Key>
+    <Value>Reset Playcount for the Selected Subcategory</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPriorityForSubcategoryToolStripMenuItem1</Key>
+    <Value>Reset Priority for the Selected Subcategory</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPlaycountForGenreToolStripMenuItem</Key>
+    <Value>Reset Playcount for the Selected Genre</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPriorityForGenreToolStripMenuItem</Key>
+    <Value>Reset Priority for the Selected Genre</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetToolStripMenuItem</Key>
+    <Value>Resets</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPlaycountToolStripMenuItem</Key>
+    <Value>Reset Playcount</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPriorityToolStripMenuItem</Key>
+    <Value>Reset Priority</Value>
+  </Settings>
+  <Settings>
+    <Key>MoodConfirmation</Key>
+    <Value>Do you really want to change the mood of the selected tracks?</Value>
+  </Settings>
+  <Settings>
+    <Key>GenderConfirmation</Key>
+    <Value>Do you really want to change the gender of the selected tracks?</Value>
+  </Settings>
+  <Settings>
+    <Key>LanguageConfirmation</Key>
+    <Value>Do you really want to change the language of the selected tracks?</Value>
+  </Settings>
+  <Settings>
+    <Key>RatingConfirmation</Key>
+    <Value>Do you really want to change the rating of the selected tracks?</Value>
+  </Settings>
+  <Settings>
+    <Key>grMood</Key>
+    <Value>MOOD</Value>
+  </Settings>
+  <Settings>
+    <Key>grGender</Key>
+    <Value>GENDER</Value>
+  </Settings>
+  <Settings>
+    <Key>grLanguage</Key>
+    <Value>LANGUAGE</Value>
+  </Settings>
+  <Settings>
+    <Key>grRating</Key>
+    <Value>RATING</Value>
+  </Settings>
+</NewDataSet>

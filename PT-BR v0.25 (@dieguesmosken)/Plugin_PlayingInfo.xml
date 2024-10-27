@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Tocando Agora</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Exportar Info tocando agora</Value>
+  </Settings>
+  
+  <!-- FILE GROUP -->
+  
+  <Settings>
+    <Key>grToFile</Key>
+    <Value>Exportar para arquivo</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbTargetFile</Key>
+    <Value>Arquivo alvo</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckFile</Key>
+    <Value>Ativado</Value>
+  </Settings>
+  
+  <!-- WEB GROUP -->
+  
+  <Settings>
+    <Key>grToWeb</Key>
+    <Value>Exportar para Web</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbURL</Key>
+    <Value>URL</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPassword</Key>
+    <Value>Senha</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckWeb</Key>
+    <Value>Ativado</Value>
+  </Settings>
+  
+  <!-- SERIAL GROUP -->
+  
+  <Settings>
+    <Key>grSerial</Key>
+    <Value>Exportar para Serial</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbTemplate</Key>
+    <Value>Arquivo de modelo</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSerialPort</Key>
+    <Value>Porta Serial</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbBaud</Key>
+    <Value>Taxa de Baud</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbHandshake</Key>
+    <Value>Handshake</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtSweeper</Key>
+    <Value>Sweeper</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbParity</Key>
+    <Value>Paridade</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbStopBits</Key>
+    <Value>Stop Bits</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbDataBits</Key>
+    <Value>Data Bits</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckDtr</Key>
+    <Value>Ativar DTR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckRTS</Key>
+    <Value>Ativar RTS</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckSerial</Key>
+    <Value>Ativar</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butSave</Key>
+    <Value>Salvar</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>Cancelar</Value>
+  </Settings>
+  
+</NewDataSet>

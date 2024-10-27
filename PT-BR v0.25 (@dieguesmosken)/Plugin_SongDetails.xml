@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Detalhes da Música</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Mostra Informações sobre a faixa que está tocando.</Value>
+  </Settings>
+
+</NewDataSet>

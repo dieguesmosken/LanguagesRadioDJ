@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Various playlist styles.</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butAutoDJ</Key>
+    <Value>AUTODJ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butAutoDJ2</Key>
+    <Value>MANUAL</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butAssist</Key>
+    <Value>ASSISTED</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butAssist2</Key>
+    <Value>AUTOMATED</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butInsert</Key>
+    <Value>INSERT</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butReplace</Key>
+    <Value>REPLACE</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butClear</Key>
+    <Value>CLEAR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butInput</Key>
+    <Value>INPUT</Value>
+  </Settings>
+  
+  <!-- LIST MODE WINDOW --> 
+  
+  <Settings>
+    <Key>txtPlay</Key>
+    <Value>Play</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtArtist</Key>
+    <Value>Artist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtTitle</Key>
+    <Value>Title</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtSweeper</Key>
+    <Value>Sweeper</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtVT</Key>
+    <Value>Voice Track</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtIntro</Key>
+    <Value>Intro</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtDuration</Key>
+    <Value>Duration</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtEta</Key>
+    <Value>ETA</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtDelete</Key>
+    <Value>Delete</Value>
+  </Settings>
+  
+  <!-- OPEN/SAVE FORM -->
+  
+  <Settings>
+    <Key>txtOpenPlaylist</Key>
+    <Value>Open Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grPlaylistType</Key>
+    <Value>Playlist Options</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>rdRdj</Key>
+    <Value>RadioDJ Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>rdPls</Key>
+    <Value>pls, m3u Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbOpenOptions</Key>
+    <Value>Open Options</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butOpen</Key>
+    <Value>OPEN</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>CANCEL</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtSavePlaylist</Key>
+    <Value>Save Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSavePlaylistName</Key>
+    <Value>Playlist Name</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butSave</Key>
+    <Value>SAVE</Value>
+  </Settings>
+  
+  <!-- CONFIRATIONS -->
+  
+  <Settings>
+    <Key>ConfirmationTitle</Key>
+    <Value>Confirmation Needed...</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ClearConfirmation</Key>
+    <Value>Do you really want to delete the existing playlist?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DeleteConfirmation</Key>
+    <Value>Do you really want to delete this track?</Value>
+  </Settings>
+  
+  <!-- OPTIONS WINDOW --> 
+  
+  <Settings>
+    <Key>txtSettings</Key>
+    <Value>Options</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtDescription</Key>
+    <Value>Plugin Options</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>Plugin Zone</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbStyle</Key>
+    <Value>Playlist Style</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtStyleCart</Key>
+    <Value>Slot Mode</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtStyleList</Key>
+    <Value>List Mode</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butOK</Key>
+    <Value>Close</Value>
+  </Settings>
+  
+</NewDataSet>

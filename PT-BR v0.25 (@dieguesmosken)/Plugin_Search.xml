@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Pesquisa</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Ferramenta de Pesquisa.</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnyCategory</Key>
+    <Value>Qualquer Categoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnySubcategory</Key>
+    <Value>Qualquer Subcategoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnyGenre</Key>
+    <Value>Qualquer Genero</Value>
+  </Settings>
+  
+  <!-- List Columns --> 
+  
+  <Settings>
+    <Key>txArtist</Key>
+    <Value>Artista</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txTitle</Key>
+    <Value>Titulo</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txDuration</Key>
+    <Value>Duração</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txIntro</Key>
+    <Value>Inicio</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txLastPlayed</Key>
+    <Value>Ultima Vez Tocada</Value>
+  </Settings>
+  
+  <!-- Options Form  -->
+  
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Opções</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>Zona</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckRefresh</Key>
+    <Value>Recarregar em Tempo Real</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AlbumSearch</Key>
+    <Value>Pesquisar Album</Value>
+  </Settings>
+  
+  <!-- Search Context Menu -->
+  
+  <Settings>
+    <Key>tlStripAddtoPlaylist</Key>
+    <Value>Adicionar a Playlist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AddToRequestsQueueToolStripMenuItem</Key>
+    <Value>Adicionar pedidos a fila</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tlStripEditTrack</Key>
+    <Value>Editar Faixa</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tlStripDisableTrack</Key>
+    <Value>Desativar Faixas Selecionadas</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tlStripDeleteTrack</Key>
+    <Value>Apagar Selecionadas</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txDisableConfirmation</Key>
+    <Value>Você Realmente tem certeza de desativar as Faixas Selecionadas?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txDeleteConfirmation</Key>
+    <Value>Você Realmente tem certeza de apagar as Faixas Selecionadas?</Value>
+  </Settings>
+  
+</NewDataSet>

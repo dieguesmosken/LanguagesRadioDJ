@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>butOptions</Key>
+    <Value>OPÇÕES</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTimeTop</Key>
+    <Value>TEMPO</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRemainingTop</Key>
+    <Value>RESTANTE</Value>
+  </Settings>
+  <Settings>
+    <Key>lbElapsedTop</Key>
+    <Value>DECORRIDO</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTotalTimeTop</Key>
+    <Value>TOTAL</Value>
+  </Settings>
+  <Settings>
+    <Key>lbIntroTop</Key>
+    <Value>INTRO</Value>
+  </Settings>
+  <Settings>
+    <Key>lbClockTop</Key>
+    <Value>Relogio</Value>
+  </Settings>
+</NewDataSet>

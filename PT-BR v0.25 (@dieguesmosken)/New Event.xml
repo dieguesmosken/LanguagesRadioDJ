@@ -1,0 +1,235 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainTitle.Text</Key>
+    <Value>Adicionar ou modificar eventos</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Group.Details.Text</Key>
+    <Value>Detalhes</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Label.EventName.Text</Key>
+    <Value>Nome do Evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Label.SelectAction.Text</Key>
+    <Value>Selecionar Ação</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Check.Enabled.Text</Key>
+    <Value>Ativado</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Group.Days.Text</Key>
+    <Value>Dias</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Check.Mon.Text</Key>
+    <Value>SEG</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Check.Tue.Text</Key>
+    <Value>TER</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Check.Wed.Text</Key>
+    <Value>QUA</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Check.Thu.Text</Key>
+    <Value>QUI</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Check.Fri.Text</Key>
+    <Value>SEX</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Check.Sat.Text</Key>
+    <Value>SAB</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Check.Sun.Text</Key>
+    <Value>DOM</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Group.SelectedDate.Text</Key>
+    <Value>Somente na data</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Label.SelectDate.Text</Key>
+    <Value>Selecionar Data</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Group.Timing.Text</Key>
+    <Value>Hora</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Group.Actions.Text</Key>
+    <Value>Ações do Evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Label.EventTime.Text</Key>
+    <Value>Hora do Evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Button.AddEvent.Text</Key>
+    <Value>Adicionar Evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Button.AddEvent.Text2</Key>
+    <Value>Salvar Evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Column.EventActions.Text</Key>
+    <Value>Ações do Evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Error.EventName.Text</Key>
+    <Value>Por favor, digite o nome do evento!</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Error.EventTime.Text</Key>
+    <Value>Por favor, digite a hora do evento!</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Button.DeleteEvent.Text</Key>
+    <Value>Apagar Evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Button.Cancel.Text</Key>
+    <Value>Cancelar</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MsgBox.NoAction.Text</Key>
+    <Value>Este evento não tem ações!</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MsgBox.NoAction.Title</Key>
+    <Value>Ações de Eventos?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MsgBox.EventAdded.Text</Key>
+    <Value>Evento adicionado com sucesso!</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MsgBox.EventAdded.Title</Key>
+    <Value>Concluido...</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Confirmation.DeleteEvent.Text</Key>
+    <Value>Você realmente quer excluir o evento?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Confirmation.DeleteEvent.Title</Key>
+    <Value>Excluir Evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MsgBox.EventSaved.Text</Key>
+    <Value>Evento Salvo Com Sucesso!</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MsgBox.EventSaved.Title</Key>
+    <Value>Salvo...</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbEvType.Text</Key>
+    <Value>Tipo de Evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grHours.Text</Key>
+    <Value>Horas</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbEventType1</Key>
+    <Value>Uma Vez Somente</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbEventType2</Key>
+    <Value>Repita por Dia</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbEventType3</Key>
+    <Value>Repita por Dia e Hora</Value>
+  </Settings>
+  
+  <!-- V1.6.4.5-->
+  
+  <Settings>
+    <Key>cbEventType4</Key>
+    <Value>Evento manual</Value>
+  </Settings>
+  
+  <!-- V1.6.5.7-->
+  
+  <Settings>
+    <Key>cbEventType5</Key>
+    <Value>Evento De Inicialização</Value>
+  </Settings>
+  
+  <!-- V1.8.3.0-->
+  
+  <Settings>
+    <Key>cbEventType6</Key>
+    <Value>Repita Por Data</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbEventType7</Key>
+    <Value>Repita Por Data e Hora</Value>
+  </Settings>
+  
+  <!-- END UPDATES-->
+  
+  <Settings>
+    <Key>lbHourIgnored.Text</Key>
+    <Value>A hora será ignorada.!</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbEventCategory</Key>
+    <Value>Categoria de Evento</Value>
+  </Settings>
+</NewDataSet>

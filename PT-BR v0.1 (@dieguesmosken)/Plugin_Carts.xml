@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Instant Players</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Instant players plugin</Value>
+  </Settings>
+  
+  <!-- Configuration --> 
+  
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Options</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckSeparate</Key>
+    <Value>As Separate Window</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>Plugin Zone</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbColumns</Key>
+    <Value>Columns</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbRows</Key>
+    <Value>Rows</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSepColumns</Key>
+    <Value>Columns (separate window)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSepRows</Key>
+    <Value>Rows (separate window)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butOK</Key>
+    <Value>Close</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tip_Save</Key>
+    <Value>Save this cart set</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tip_Delete</Key>
+    <Value>Delete this cart set</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tip_Fade</Key>
+    <Value>Fade out on stop</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butFade</Key>
+    <Value>FADE</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tip_Continuous</Key>
+    <Value>Play one cart at a time</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butContinuous</Key>
+    <Value>SINGLE</Value>
+  </Settings>
+
+  <Settings>
+    <Key>tip_Stop</Key>
+    <Value>Stop carts</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DeleteCartMsg</Key>
+    <Value>Do you really want to delete this cart set?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DeleteCartTitle</Key>
+    <Value>Confirmation Needed!</Value>
+  </Settings>
+  
+</NewDataSet>
