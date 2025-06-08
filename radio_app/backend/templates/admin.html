@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radio App Admin</title>
+    <style>
+        body { font-family: sans-serif; margin: 20px; background-color: #f4f4f4; color: #333; }
+        h1, h2 { color: #333; }
+        .container { background-color: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        .upload-form, .music-list { margin-bottom: 30px; }
+        label { display: block; margin-bottom: 5px; }
+        input[type="file"], input[type="submit"] { margin-bottom: 10px; padding: 8px; }
+        input[type="submit"] { background-color: #007bff; color: white; border: none; cursor: pointer; border-radius: 4px; }
+        input[type="submit"]:hover { background-color: #0056b3; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { text-align: left; padding: 8px; border-bottom: 1px solid #ddd; }
+        th { background-color: #e9ecef; }
+        a { color: #007bff; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .message { padding: 10px; margin-bottom: 15px; border-radius: 4px; }
+        .success { background-color: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+        .error { background-color: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Radio App Admin Panel</h1>
+
+        <div class="upload-form">
+            <h2>Upload Music</h2>
+            <form id="uploadForm" enctype="multipart/form-data">
+                <label for="file">Choose music file:</label>
+                <input type="file" name="file" id="file" required>
+                <br>
+                <input type="submit" value="Upload">
+            </form>
+            <div id="uploadStatus" class="message" style="display:none;"></div>
+        </div>
+
+        <div class="music-list">
+            <h2>Uploaded Music</h2>
+            <table id="musicTable">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Filename</th>
+                        <th>URL</th>
+                        <th>Uploaded At</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Music tracks will be listed here by JavaScript -->
+                </tbody>
+            </table>
+            <p id="noMusicMessage" style="display:none;">No music uploaded yet.</p>
+        </div>
+    </div>
+
+    <script>
+        // Handle Upload
+        const uploadForm = document.getElementById('uploadForm');
+        const uploadStatusDiv = document.getElementById('uploadStatus');
+
+        uploadForm.addEventListener('submit', async function(event) {
+            event.preventDefault();
+            const formData = new FormData(this);
+            uploadStatusDiv.style.display = 'none';
+            uploadStatusDiv.className = 'message'; // Reset class
+
+            try {
+                const response = await fetch('/api/upload', {
+                    method: 'POST',
+                    body: formData
+                });
+                const result = await response.json();
+
+                if (response.ok) {
+                    uploadStatusDiv.textContent = 'Success: ' + result.message;
+                    uploadStatusDiv.classList.add('success');
+                    loadMusicList(); // Refresh list
+                    uploadForm.reset(); // Clear the form
+                } else {
+                    uploadStatusDiv.textContent = 'Error: ' + (result.error || 'Upload failed');
+                    uploadStatusDiv.classList.add('error');
+                }
+            } catch (error) {
+                console.error('Upload error:', error);
+                uploadStatusDiv.textContent = 'Error: Could not connect to server or other network error.';
+                uploadStatusDiv.classList.add('error');
+            }
+            uploadStatusDiv.style.display = 'block';
+        });
+
+        // Load Music List
+        const musicTableBody = document.querySelector('#musicTable tbody');
+        const noMusicMessage = document.getElementById('noMusicMessage');
+
+        async function loadMusicList() {
+            musicTableBody.innerHTML = ''; // Clear existing rows
+            noMusicMessage.style.display = 'none';
+            try {
+                const response = await fetch('/api/music');
+                const music = await response.json();
+
+                if (music.length === 0) {
+                    noMusicMessage.style.display = 'block';
+                    return;
+                }
+
+                music.forEach(track => {
+                    const row = musicTableBody.insertRow();
+                    row.insertCell().textContent = track.id;
+                    row.insertCell().textContent = track.filename;
+                    const urlCell = row.insertCell();
+                    const link = document.createElement('a');
+                    link.href = track.url;
+                    link.textContent = 'Listen';
+                    link.target = '_blank';
+                    urlCell.appendChild(link);
+                    row.insertCell().textContent = new Date(track.uploaded_at).toLocaleString();
+                });
+            } catch (error) {
+                console.error('Error loading music list:', error);
+                musicTableBody.innerHTML = '<tr><td colspan="4" style="color:red;">Could not load music list.</td></tr>';
+            }
+        }
+
+        // Initial load
+        loadMusicList();
+    </script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+# Firebase Admin SDK key
+backend/firebase-admin-sdk-key.json
+
+# Python virtual environment
+backend/venv/
+
+# Python caches
+backend/__pycache__/
+backend/*.pyc
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Temporary upload folder
+backend/uploads/

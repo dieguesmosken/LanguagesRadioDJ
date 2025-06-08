@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radio Player</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Simple Radio Player</h1>
+
+        <div id="player">
+            <div id="now-playing">
+                <h2 id="track-title">No Track Selected</h2>
+                <p id="track-artist">Unknown Artist</p>
+                <!-- <img id="album-art" src="placeholder.jpg" alt="Album Art"> -->
+                <!-- <p id="track-duration">0:00</p> -->
+            </div>
+
+            <audio id="audio-player" controls></audio>
+
+            <div id="controls">
+                <!-- Basic controls are part of the <audio> element -->
+                <!-- Custom buttons can be added here if needed later -->
+            </div>
+        </div>
+
+        <div id="playlist">
+            <h2>Playlist</h2>
+            <ul id="track-list">
+                <!-- Tracks will be listed here -->
+            </ul>
+            <p id="loading-message">Loading playlist...</p>
+            <p id="error-message" style="color:red; display:none;"></p>
+        </div>
+    </div>
+
+    <!-- Firebase SDKs -->
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-storage-compat.js"></script>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
